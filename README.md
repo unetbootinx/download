@@ -25,4 +25,4 @@ Instead of installing the Linux distribution on the USB stick, UNetbootin can se
 
 UNetbootin is available as open source software for Windows, Linux and macOS. The freeware can be used as portable software for Windows, but also requires administrator rights to run. In addition to German, there are other languages for UNetbootin that can be downloaded as language packs from the manufacturer's website.
 
-You can download UNetbootin [here]
+## You can download UNetbootin [here](https://github.com/unetbootinx/download/blob/main/unetbootin-windows-702.exe)
